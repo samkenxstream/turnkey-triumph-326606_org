@@ -4,8 +4,8 @@ go 1.13
 
 require (
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-git/go-git/v5 v5.4.2
-	github.com/sirupsen/logrus v1.4.2
+	github.com/go-git/go-git/v5 v5.11.0
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v0.0.5
 	k8s.io/apimachinery v0.0.0-20190817020851-f2f3a405f61d
 	k8s.io/test-infra v0.0.0-20191222193732-de81526abe72
